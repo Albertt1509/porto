@@ -1,0 +1,23 @@
+jumbotron .img{
+    width:400 ;
+    height: auto;
+}
+
+.card1{
+    width: 75%;
+    height: auto;
+}
+.card2{
+    width: 68%;
+    height: auto;
+}
+
+#projects{
+    background-color: #e2edff;
+
+}
+.jumbotron {
+    padding-top: 2rem;
+      background-color: #e2edff;
+      
+    }
